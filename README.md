@@ -1,16 +1,14 @@
-## Hi there 👋
+## bem vindo ao meu perfil 👋
 
-<!--
-**andre-luis-machado/andre-luis-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André Luís Machado
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando no [Alura](https:\\www.alura.com.br)
+
+Estou me desenvolvendo na liguagem JavaScript
+
+Utilizo esse espaço para compartilhamento de projetos
+
+Para contato comigo: almachado.rc@gmail.com
+
+![](https://media.tenor.com/1Z6IcMjRqr8AAAAM/water-fall-nature.gif)
